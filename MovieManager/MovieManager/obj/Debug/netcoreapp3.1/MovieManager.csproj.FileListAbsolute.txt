@@ -1,0 +1,26 @@
+D:\Code\CAB301\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.exe
+D:\Code\CAB301\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.deps.json
+D:\Code\CAB301\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.json
+D:\Code\CAB301\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.dev.json
+D:\Code\CAB301\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.dll
+D:\Code\CAB301\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.pdb
+D:\Code\CAB301\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csprojAssemblyReference.cache
+D:\Code\CAB301\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CoreCompileInputs.cache
+D:\Code\CAB301\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfoInputs.cache
+D:\Code\CAB301\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfo.cs
+D:\Code\CAB301\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.dll
+D:\Code\CAB301\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.pdb
+D:\Code\CAB301\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.genruntimeconfig.cache
+D:\Code\CAB301\MovieManager BETTER\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.exe
+D:\Code\CAB301\MovieManager BETTER\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.deps.json
+D:\Code\CAB301\MovieManager BETTER\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.json
+D:\Code\CAB301\MovieManager BETTER\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.dev.json
+D:\Code\CAB301\MovieManager BETTER\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.dll
+D:\Code\CAB301\MovieManager BETTER\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.pdb
+D:\Code\CAB301\MovieManager BETTER\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csprojAssemblyReference.cache
+D:\Code\CAB301\MovieManager BETTER\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CoreCompileInputs.cache
+D:\Code\CAB301\MovieManager BETTER\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfoInputs.cache
+D:\Code\CAB301\MovieManager BETTER\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfo.cs
+D:\Code\CAB301\MovieManager BETTER\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.dll
+D:\Code\CAB301\MovieManager BETTER\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.pdb
+D:\Code\CAB301\MovieManager BETTER\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.genruntimeconfig.cache
